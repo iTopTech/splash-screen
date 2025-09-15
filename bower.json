@@ -1,7 +1,7 @@
 {
   "name": "splash-screen",
   "version": "4.0.0",
-  "homepage": "https://github.com/leftstick/splash-screen",
+  "homepage": "https://github.com/iTopTech/splash-screen",
   "description": "Simple splash-screen",
   "main": [
     "src/index.ts",

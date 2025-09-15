@@ -134,15 +134,15 @@ destroy();
 Multiple themes can be used while enable splash. Available themes: `tailing`, `windcatcher`, `audio-wave`, `spinner-section`, `spinner-section-far`, `circular`.
 
 
-You would like to see real demo: [splash-screen](http://leftstick.github.io/splash-screen/)
+<!-- You would like to see real demo: [splash-screen](http://iTopTech.github.io/splash-screen/) -->
 
-## LICENSE ##
+<!-- ## LICENSE ## -->
 
-[MIT License](https://raw.githubusercontent.com/leftstick/splash-screen/master/LICENSE)
+<!-- [MIT License](https://raw.githubusercontent.com/iTopTech/splash-screen/master/LICENSE) -->
 
 [bower-url]: https://img.shields.io/bower/v/splash-screen.svg
 [npm-url]: https://npmjs.org/package/splash-screen
 [npm-image]: https://badge.fury.io/js/splash-screen.png
-[david-url]: https://david-dm.org/leftstick/splash-screen.png
+[david-url]: https://david-dm.org/iTopTech/splash-screen.png
 [dt-url]:https://img.shields.io/npm/dt/splash-screen.svg
 [license-url]:https://img.shields.io/npm/l/splash-screen.svg
